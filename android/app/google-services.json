@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83979387987",
+    "project_id": "speaksigns-7b4f3",
+    "storage_bucket": "speaksigns-7b4f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83979387987:android:90b56f667d5ee57b3332a6",
+        "android_client_info": {
+          "package_name": "com.example.speaksigns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MPQ8vftvKrsZ0QuRPOwBFrWINN7-buU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
